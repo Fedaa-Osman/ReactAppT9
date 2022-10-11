@@ -50,7 +50,7 @@ const Form = () => {
                 <input name="phone" value={form.phone} onChange={handleChanges} />
             </div>
             <div>
-                <label>Experiance :</label>
+                <label>Experience :</label>
                 <input name="experience" value={form.experience} onChange={handleChanges}
                 />
             </div>
